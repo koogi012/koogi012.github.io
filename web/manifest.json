@@ -1,6 +1,6 @@
 {
-    "name": "webdev",
-    "short_name": "webdev",
+    "name": "ui_panel_dashboard",
+    "short_name": "ui_panel_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
